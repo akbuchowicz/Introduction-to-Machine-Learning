@@ -5,3 +5,4 @@ Stored in this repository are solutions to programming tasks completed as part o
 * LDA/QDA
 * Naive Bayes
 * SVM
+* Feature selection, PCA
